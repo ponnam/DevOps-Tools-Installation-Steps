@@ -47,7 +47,7 @@ sudo yum install maven -y
 ### Install Jenkins
 
 ```bash
-sudo yum install Jenkins -y
+sudo yum install jenkins -y
 ```
 
 ### Check the Jebkins service Status, Then Start the Jenkins Server and configure to auto start.
